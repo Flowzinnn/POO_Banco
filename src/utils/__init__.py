@@ -1,0 +1,1 @@
+"""Utilitários (validadores, segurança, logging)."""

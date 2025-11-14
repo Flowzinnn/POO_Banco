@@ -1,0 +1,1 @@
+"""Views para apresentação (console)."""

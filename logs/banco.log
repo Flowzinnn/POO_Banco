@@ -1,0 +1,111 @@
+13/11/2025 23:20:39 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:20:40 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:20:40 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:20:45 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:20:51 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:20:52 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:20:53 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:20:53 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:20:53 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+13/11/2025 23:21:09 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:21:10 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:21:10 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:21:15 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:21:18 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:21:19 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:21:19 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:21:20 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:21:20 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+13/11/2025 23:21:29 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:22:04 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:22:04 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+13/11/2025 23:22:04 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:22:04 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+13/11/2025 23:22:04 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+13/11/2025 23:22:04 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+13/11/2025 23:22:04 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+13/11/2025 23:22:04 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+13/11/2025 23:22:04 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+13/11/2025 23:22:05 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:22:05 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:22:05 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:22:08 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 12345-6
+13/11/2025 23:22:08 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:22:09 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:22:10 | services.conta | [32mINFO[0m | Saque de R$ 1200.00 realizado na conta 12345-6
+13/11/2025 23:22:10 | views | [32mINFO[0m | Saque de R$ 1200.00 realizado com sucesso
+13/11/2025 23:22:13 | services.conta | [32mINFO[0m | Transferência de R$ 300.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:22:14 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:22:14 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:22:15 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:22:16 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:22:16 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+13/11/2025 23:23:06 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:23:06 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+13/11/2025 23:23:06 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:23:06 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+13/11/2025 23:23:06 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+13/11/2025 23:23:06 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+13/11/2025 23:23:06 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+13/11/2025 23:23:06 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+13/11/2025 23:23:06 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+13/11/2025 23:23:07 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:23:07 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:23:07 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:23:11 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 12345-6
+13/11/2025 23:23:11 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:23:11 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:23:12 | services.conta | [32mINFO[0m | Saque de R$ 1200.00 realizado na conta 12345-6
+13/11/2025 23:23:12 | views | [32mINFO[0m | Saque de R$ 1200.00 realizado com sucesso
+13/11/2025 23:23:16 | services.conta | [32mINFO[0m | Transferência de R$ 300.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:23:17 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:23:18 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:23:19 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:23:20 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:23:20 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+13/11/2025 23:24:06 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:24:06 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+13/11/2025 23:24:06 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:24:06 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+13/11/2025 23:24:06 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+13/11/2025 23:24:06 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+13/11/2025 23:24:06 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+13/11/2025 23:24:06 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+13/11/2025 23:24:06 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+13/11/2025 23:24:08 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:08 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:24:08 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:24:14 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 12345-6
+13/11/2025 23:24:14 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:24:15 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:24:16 | services.conta | [32mINFO[0m | Saque de R$ 1200.00 realizado na conta 12345-6
+13/11/2025 23:24:16 | views | [32mINFO[0m | Saque de R$ 1200.00 realizado com sucesso
+13/11/2025 23:24:20 | services.conta | [32mINFO[0m | Transferência de R$ 300.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:24:20 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:24:21 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:24:21 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:22 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:22 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+13/11/2025 23:24:41 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+13/11/2025 23:24:41 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+13/11/2025 23:24:41 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:24:41 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+13/11/2025 23:24:41 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+13/11/2025 23:24:41 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+13/11/2025 23:24:41 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+13/11/2025 23:24:41 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+13/11/2025 23:24:41 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+13/11/2025 23:24:42 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:42 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+13/11/2025 23:24:42 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:24:45 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 12345-6
+13/11/2025 23:24:45 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+13/11/2025 23:24:46 | services.conta | [33mWARNING[0m | Tentativa de depósito com valor inválido: R$ -100.00
+13/11/2025 23:24:47 | services.conta | [32mINFO[0m | Saque de R$ 1200.00 realizado na conta 12345-6
+13/11/2025 23:24:47 | views | [32mINFO[0m | Saque de R$ 1200.00 realizado com sucesso
+13/11/2025 23:24:50 | services.conta | [32mINFO[0m | Transferência de R$ 300.00 da conta 12345-6 para conta 98765-4
+13/11/2025 23:24:50 | services.conta | [32mINFO[0m | Imposto calculado para conta 12345-6: R$ 70.00
+13/11/2025 23:24:51 | services.conta | [32mINFO[0m | Rendimento calculado para conta 98765-4: R$ 25.00
+13/11/2025 23:24:52 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:52 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+13/11/2025 23:24:52 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
