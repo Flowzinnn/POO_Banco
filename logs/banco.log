@@ -109,3 +109,50 @@
 13/11/2025 23:24:52 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
 13/11/2025 23:24:52 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
 13/11/2025 23:24:52 | services.agencia | [33mWARNING[0m | Tentativa de adicionar conta 12345-6 já existente na agência 0001
+14/11/2025 08:11:52 | main_v2 | [32mINFO[0m | Sistema Bancário v2 iniciado
+14/11/2025 08:11:52 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 001
+14/11/2025 08:11:52 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+14/11/2025 08:11:52 | services.conta | [32mINFO[0m | Saque de R$ 150.00 realizado na conta 001
+14/11/2025 08:11:52 | views | [32mINFO[0m | Saque de R$ 150.00 realizado com sucesso
+14/11/2025 08:11:52 | views | [32mINFO[0m | Extrato consultado - Conta 001 com 2 transações
+14/11/2025 08:11:52 | views | [32mINFO[0m | Cliente Nicolas não possui contas
+14/11/2025 08:11:52 | services.agencia | [32mINFO[0m | Conta 001 adicionada à agência 001
+14/11/2025 08:11:52 | services.agencia | [32mINFO[0m | Conta 002 adicionada à agência 001
+14/11/2025 08:11:52 | views | [32mINFO[0m | Listadas 1 agências do banco Banco Wolf
+14/11/2025 08:11:52 | main_v2 | [32mINFO[0m | Sistema Bancário v2 finalizado com sucesso
+14/11/2025 08:21:31 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+14/11/2025 08:21:31 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+14/11/2025 08:21:31 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+14/11/2025 08:21:31 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+14/11/2025 08:21:31 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+14/11/2025 08:21:31 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+14/11/2025 08:21:31 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+14/11/2025 08:21:31 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+14/11/2025 08:21:31 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+14/11/2025 08:21:42 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+14/11/2025 08:21:42 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+14/11/2025 08:21:42 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+14/11/2025 08:22:04 | services.agencia | [32mINFO[0m | Conta 10001-0 adicionada à agência 0001
+14/11/2025 08:22:04 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 10001-0
+14/11/2025 08:22:04 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+14/11/2025 08:22:04 | services.conta | [32mINFO[0m | Depósito de R$ 300.00 realizado na conta 10001-0
+14/11/2025 08:22:04 | views | [32mINFO[0m | Depósito de R$ 300.00 realizado com sucesso
+14/11/2025 08:22:04 | services.conta | [32mINFO[0m | Saque de R$ 200.00 realizado na conta 10001-0
+14/11/2025 08:22:04 | views | [32mINFO[0m | Saque de R$ 200.00 realizado com sucesso
+14/11/2025 08:22:04 | services.banco | [32mINFO[0m | Saldo total do banco Banco Integração: R$ 600.00
+14/11/2025 08:22:04 | services.banco | [32mINFO[0m | Número de clientes únicos no banco Banco Integração: 1
+14/11/2025 08:22:52 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+14/11/2025 08:22:52 | services.agencia | [32mINFO[0m | Conta 98765-4 adicionada à agência 0001
+14/11/2025 08:22:52 | services.conta | [32mINFO[0m | Transferência de R$ 400.00 da conta 12345-6 para conta 98765-4
+14/11/2025 08:41:27 | services.agencia | [32mINFO[0m | Conta 12345-6 adicionada à agência 0001
+14/11/2025 12:27:40 | main_v2 | [32mINFO[0m | Sistema Bancário v2 iniciado
+14/11/2025 12:27:41 | services.conta | [32mINFO[0m | Depósito de R$ 500.00 realizado na conta 001
+14/11/2025 12:27:41 | views | [32mINFO[0m | Depósito de R$ 500.00 realizado com sucesso
+14/11/2025 12:27:41 | services.conta | [32mINFO[0m | Saque de R$ 150.00 realizado na conta 001
+14/11/2025 12:27:41 | views | [32mINFO[0m | Saque de R$ 150.00 realizado com sucesso
+14/11/2025 12:27:41 | views | [32mINFO[0m | Extrato consultado - Conta 001 com 2 transações
+14/11/2025 12:27:41 | views | [32mINFO[0m | Cliente Nicolas não possui contas
+14/11/2025 12:27:41 | services.agencia | [32mINFO[0m | Conta 001 adicionada à agência 001
+14/11/2025 12:27:41 | services.agencia | [32mINFO[0m | Conta 002 adicionada à agência 001
+14/11/2025 12:27:41 | views | [32mINFO[0m | Listadas 1 agências do banco Banco Wolf
+14/11/2025 12:27:41 | main_v2 | [32mINFO[0m | Sistema Bancário v2 finalizado com sucesso
